@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Week3\Lambada Expressions\Lambada Expressions\bin\Debug\Lambada Expressions.exe.config
+C:\Users\Technologist\Documents\GitHub\Week3\Lambada Expressions\Lambada Expressions\bin\Debug\Lambada Expressions.exe
+C:\Users\Technologist\Documents\GitHub\Week3\Lambada Expressions\Lambada Expressions\bin\Debug\Lambada Expressions.pdb
+C:\Users\Technologist\Documents\GitHub\Week3\Lambada Expressions\Lambada Expressions\obj\Debug\Lambada Expressions.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week3\Lambada Expressions\Lambada Expressions\obj\Debug\Lambada Expressions.exe
+C:\Users\Technologist\Documents\GitHub\Week3\Lambada Expressions\Lambada Expressions\obj\Debug\Lambada Expressions.pdb
