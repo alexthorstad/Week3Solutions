@@ -19,6 +19,7 @@ namespace Digital_Root
             List<int> rootThis = new List<int>() { 2, 4, 6, 10, 12, 14 };
             Console.WriteLine(string.Join(", ", rootThis.Distinct()));
             Console.WriteLine(rootThis.Sum(x => x));
+            //Unable to figure out how to reach the Digital Root
             Console.WriteLine(r
             Console.Read();
         }

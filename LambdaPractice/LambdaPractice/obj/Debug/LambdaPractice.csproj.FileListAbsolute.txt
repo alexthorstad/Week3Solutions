@@ -4,3 +4,6 @@ C:\Users\Technologist\Documents\GitHub\Week3\LambdaPractice\LambdaPractice\bin\D
 C:\Users\Technologist\Documents\GitHub\Week3\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.pdb
 C:\Users\Technologist\Documents\GitHub\Week3\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.exe
 C:\Users\Technologist\Documents\GitHub\Week3\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.pdb
+C:\Users\Technologist\Documents\GitHub\Week3\Week3Solutions\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe.config
+C:\Users\Technologist\Documents\GitHub\Week3\Week3Solutions\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.exe
+C:\Users\Technologist\Documents\GitHub\Week3\Week3Solutions\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.pdb
